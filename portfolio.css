@@ -88,7 +88,7 @@ transition-delay: 0.5s;}
 button{font-size: 30px; border: 5px solid black; width:600px; margin-left: 30%; border-radius: 50px; margin-top: 50px; font-weight: bold;}
 button:hover{background-color: yellow; color: black;} 
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 600px){
 
 body{ background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(https://www.shillingtoneducation.com/content-blog/uploads/2017/11/photo-of-designer-creating-a-website.jpg);
 
