@@ -194,10 +194,10 @@ button:hover{background-color: yellow; color: black;}
         .part{background-color: transparent; width: auto; height: 900px; margin: 50px; margin-right: 50px;  box-shadow: 5px 5px 5px 30px black;}
         .part1{margin-left: 10%; display: none; }
         .part1 a{margin-top: 50px; font-size: 25px; border: 1px solid red; border-radius: 30px; width: 200px;}
-        .part h1{font-size:3rem; color: white;}
+        .part h1{font-size:2rem; color: white;}
         .part1 i{display: none;}
         .log{color: white; float: right; display: none;}
-        .part img{width: 40%; height:auto; margin-top: 100px; border-radius: 700px; border: 5px solid black;  box-shadow: 10px 10px 10px 10px black; }
+        .part img{width: 50%; height:auto; margin-top: 100px; border-radius: 700px; border: 5px solid black;  box-shadow: 10px 10px 10px 10px black; }
         .part button{margin:20px; margin-left: 30px; border: 3px solid white; width: 200px; font-size: 20px; font-family: monospace; box-shadow: 2px 2px 2px 5px black;}
         .part p{color: white; font-size: 15px; margin-left: 60px;}
         span button{background-color: white; color: black;}
